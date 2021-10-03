@@ -355,7 +355,7 @@ img{
         width: 100%;
         z-index: 1;
         background-color: var(--bg-black-190);
-        top: 10%;
+        top: 12%;
         opacity: 1;
         transition: all 0.4s ease-out;
     }
