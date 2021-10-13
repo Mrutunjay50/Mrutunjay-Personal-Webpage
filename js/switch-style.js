@@ -103,7 +103,7 @@ $(".last-btn").click(function () {
     alert("Do you really want to remove the neumorphism effect? Once clicked the btn will not function!")
     $("div").removeClass("outer-shadow");
     $("div").removeClass("hover-in-shadow");
-    $("div").find(".contact-item").addClass("background");
+    $("div").find(".contact-item-inner").addClass("background");
     $(".btn-1").removeClass("outer-shadow");
     $(".btn-1").addClass("background");
     $(".social-links").find("a").removeClass("outer-shadow").addClass("background");
